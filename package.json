@@ -1,7 +1,7 @@
 {
   "name": "express.js-challenge-note-taker",
   "version": "1.0.0",
-  "description": "",
+  "description": "My note taker is an app, that allows you to take and delete notes quickly.\r The UI is very simple to use.\r I learned here how to use express.js to create a server-side application, that is connected to the client-side code and the front end.\r Feel free to add as many notes as you like!",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,10 +12,19 @@
     "url": "git+https://github.com/yago-pixel/Express.js-Challenge-Note-Taker.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "express tut by simplilearn",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/yago-pixel/Express.js-Challenge-Note-Taker/issues"
   },
-  "homepage": "https://github.com/yago-pixel/Express.js-Challenge-Note-Taker#readme"
+  "homepage": "https://github.com/yago-pixel/Express.js-Challenge-Note-Taker#readme",
+  "dependencies": {
+    "-": "^0.0.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "global": "^4.4.0",
+    "npm": "^10.1.0",
+    "path": "^0.12.7",
+    "uniqid": "^5.4.0"
+  }
 }
