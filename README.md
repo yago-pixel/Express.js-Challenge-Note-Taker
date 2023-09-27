@@ -15,36 +15,8 @@ My Note taker let's you write notes easily and quickly and delete them as well.
 
 When you run the application you will be directed to the homepage. From there, you will click on the 'Get Started' button, which will take you to the actual note taker app.
 
-![index]()
-
-Here you are presented with notes in the left column,
-
-Title and text entry field in the right column,
-
-and a plus to create new Notes in the navbar.
-
-![note taker]()
-
-Enter a new title and a new note.
-
-![title]()
-![note ]()
-
-Once you write your note a save button will appear in the navbar. Click it to save it next to the current notes.
-
-![savebutton]()
-
-Click a note to see title and note in the right column.
-
-![notes]()
-
-Click the plus to create a new note.
-
-![newnote]()
-
-Click the delete button icon to remove a note.
-
-![delete]()
+## Walkthrough VideoLinks to an external site.
+"C:\Users\yagol\Videos\Captures\server.js - Express.js-Challenge-Note-Taker - Visual Studio Code 2023-09-27 17-09-41.mp4"
 
 ## MIT License
 
